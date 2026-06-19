@@ -69,7 +69,7 @@ h3 {
 
 p {
   padding: 0.5rem 0;
-  color: var(--primaryColor);
+  color: var(--primaryDarkColor);
 }
 
 .img {
