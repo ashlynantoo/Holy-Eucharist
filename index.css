@@ -86,7 +86,7 @@ p {
 }
 
 .attribute a {
-  color: var(--primaryColor);
+  color: var(--primaryDarkColor);
   text-decoration: none;
 }
 
